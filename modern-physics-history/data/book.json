@@ -1,0 +1,338 @@
+{
+  "title": "现代物理学史：问题、人物与分支",
+  "date": "2026-09-26",
+  "edition": "公开讨论稿 1.1.0",
+  "preface": "preface.md",
+  "parts": [
+    {
+      "title": "第一篇：场、量子与时空",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "1. 十九世纪留下的三种遗产：场、概率与不可逆性",
+          "path": "chapters/01-thermal-legacy.md",
+          "nav_title": "1. 场、概率与不可逆性"
+        },
+        {
+          "number": 2,
+          "title": "2. 量子理论的诞生：原子世界为什么拒绝经典解释？",
+          "path": "chapters/02-quantum-birth.md",
+          "nav_title": "2. 量子理论的诞生"
+        },
+        {
+          "number": 3,
+          "title": "3. 相对论的发展：空间和时间能不能继续当作固定舞台？",
+          "path": "chapters/03-relativity.md",
+          "nav_title": "3. 相对论"
+        }
+      ]
+    },
+    {
+      "title": "第二篇：物质组成与基本相互作用",
+      "chapters": [
+        {
+          "number": 4,
+          "title": "4. 量子场论：当粒子会产生和消失，量子力学需要怎样扩展？",
+          "path": "chapters/04-quantum-fields.md",
+          "nav_title": "4. 量子场论"
+        },
+        {
+          "number": 5,
+          "title": "5. 核物理：原子内部还有一个怎样的世界？",
+          "path": "chapters/05-nuclei.md",
+          "nav_title": "5. 核物理"
+        },
+        {
+          "number": 6,
+          "title": "6. 粒子物理：如何从“粒子动物园”走向标准模型？",
+          "path": "chapters/06-particles.md",
+          "nav_title": "6. 粒子物理与标准模型"
+        }
+      ]
+    },
+    {
+      "title": "第三篇：集体行为与物态",
+      "chapters": [
+        {
+          "number": 7,
+          "title": "7. 凝聚态物理：为什么知道电子和原子，还远远不够？",
+          "path": "chapters/07-condensed-matter.md",
+          "nav_title": "7. 凝聚态物理"
+        },
+        {
+          "number": 8,
+          "title": "8. 相变与重整化群：为什么不同物质会遵守相同的尺度规律？",
+          "path": "chapters/08-criticality.md",
+          "nav_title": "8. 相变与重整化群"
+        },
+        {
+          "number": 9,
+          "title": "9. 拓扑物态：物态之间的区别一定要靠局部序参量吗？",
+          "path": "chapters/09-topological-matter.md",
+          "nav_title": "9. 拓扑物态"
+        }
+      ]
+    },
+    {
+      "title": "第四篇：变化、涨落与持续驱动",
+      "chapters": [
+        {
+          "number": 10,
+          "title": "10. 非线性、混沌与湍流：方程确定，为什么预测仍可能困难？",
+          "path": "chapters/10-nonlinear-dynamics.md",
+          "nav_title": "10. 非线性、混沌与湍流"
+        },
+        {
+          "number": 11,
+          "title": "11. 非平衡统计物理：系统还在运动、输运和生长时，有什么普遍规律？",
+          "path": "chapters/11-nonequilibrium.md",
+          "nav_title": "11. 非平衡统计物理"
+        },
+        {
+          "number": 12,
+          "title": "12. 软物质、主动物质与生物物理：复杂组织能否有简洁规律？",
+          "path": "chapters/12-soft-active-living-matter.md",
+          "nav_title": "12. 软物质、主动物质与生物物理"
+        },
+        {
+          "number": 13,
+          "title": "13. 等离子体与聚变：带电流体为什么特别难控制？",
+          "path": "chapters/13-plasmas.md",
+          "nav_title": "13. 等离子体与聚变"
+        }
+      ]
+    },
+    {
+      "title": "第五篇：从观察量子规律到控制量子过程",
+      "chapters": [
+        {
+          "number": 14,
+          "title": "14. 原子、分子与光：从观察量子规律到主动控制它",
+          "path": "chapters/14-atoms-light.md",
+          "nav_title": "14. 原子、分子与光"
+        },
+        {
+          "number": 15,
+          "title": "15. 量子信息：纠缠怎样从争论变成实验资源？",
+          "path": "chapters/15-quantum-information.md",
+          "nav_title": "15. 量子信息"
+        }
+      ]
+    },
+    {
+      "title": "第六篇：恒星、宇宙与黑洞",
+      "chapters": [
+        {
+          "number": 16,
+          "title": "16. 天体物理：怎样把天空中的光点变成可解释的物理系统？",
+          "path": "chapters/16-astrophysics.md",
+          "nav_title": "16. 天体物理"
+        },
+        {
+          "number": 17,
+          "title": "17. 宇宙学：宇宙整体怎样成为可测量的对象？",
+          "path": "chapters/17-cosmology.md",
+          "nav_title": "17. 宇宙学"
+        },
+        {
+          "number": 18,
+          "title": "18. 黑洞热力学、量子引力与全息",
+          "path": "chapters/18-black-holes.md",
+          "nav_title": "18. 黑洞与量子引力"
+        }
+      ]
+    },
+    {
+      "title": "第七篇：数学、实验与研究方法",
+      "chapters": [
+        {
+          "number": 19,
+          "title": "19. 数学、计算和仪器：它们如何改变“什么问题值得问”？",
+          "path": "chapters/19-methods.md",
+          "nav_title": "19. 数学、计算与仪器"
+        },
+        {
+          "number": 20,
+          "title": "20. 分支之间的桥：为什么不同领域会反复遇到相同结构？",
+          "path": "chapters/20-branch-map.md",
+          "nav_title": "20. 分支之间的桥"
+        },
+        {
+          "number": 21,
+          "title": "21. 从历史到具体研究问题",
+          "path": "chapters/21-research-questions.md",
+          "nav_title": "21. 从历史到研究问题"
+        }
+      ]
+    }
+  ],
+  "appendices": [
+    {
+      "letter": "A",
+      "title": "附录A. 关键时间轴：每个节点究竟改变了什么？",
+      "path": "appendices/timeline.md"
+    },
+    {
+      "letter": "B",
+      "title": "附录B. 十六个常见误解，以及更准确的说法",
+      "path": "appendices/misconceptions.md"
+    },
+    {
+      "letter": "C",
+      "title": "附录C. 继续阅读：从问题进入资料",
+      "path": "appendices/reading.md"
+    },
+    {
+      "letter": "D",
+      "title": "附录D. 文献与资料索引",
+      "path": "appendices/references.md"
+    },
+    {
+      "letter": "E",
+      "title": "附录E. 94个问题的出处对照与推导位置",
+      "path": "appendices/question-index.md"
+    }
+  ],
+  "derivations": [
+    {
+      "id": 1,
+      "title": "推导札记：为什么“光是电磁波”是一项可计算的统一？",
+      "path": "derivations/01-em-wave.md",
+      "chapter": 1,
+      "nav_title": "电磁波与光速"
+    },
+    {
+      "id": 2,
+      "title": "推导札记：不用追踪分子，也能算出扩散与阻力的关系",
+      "path": "derivations/02-brownian-motion.md",
+      "chapter": 1,
+      "nav_title": "布朗运动与扩散"
+    },
+    {
+      "id": 3,
+      "title": "推导札记：能量元怎样改变整个辐射谱？",
+      "path": "derivations/03-planck-spectrum.md",
+      "chapter": 2,
+      "nav_title": "普朗克辐射谱"
+    },
+    {
+      "id": 4,
+      "title": "推导札记：原子为什么具有一个有限的量子尺度？",
+      "path": "derivations/04-atomic-scale.md",
+      "chapter": 2,
+      "nav_title": "原子的量子尺度"
+    },
+    {
+      "id": 5,
+      "title": "推导札记：场方程中的 $8\\pi G/c^4$ 从哪里来？",
+      "path": "derivations/05-einstein-equation.md",
+      "chapter": 3,
+      "nav_title": "爱因斯坦场方程系数"
+    },
+    {
+      "id": 6,
+      "title": "推导札记：Dirac为什么会走到矩阵，而不只是另一条微分方程？",
+      "path": "derivations/06-dirac-equation.md",
+      "chapter": 4,
+      "nav_title": "狄拉克方程"
+    },
+    {
+      "id": 7,
+      "title": "推导札记：作用量为什么能把量子相位接到经典运动？",
+      "path": "derivations/07-stationary-action.md",
+      "chapter": 4,
+      "nav_title": "作用量与量子相位"
+    },
+    {
+      "id": 8,
+      "title": "推导札记：一个连续对称性怎样变成守恒量？",
+      "path": "derivations/08-noether-current.md",
+      "chapter": 6,
+      "nav_title": "诺特定理"
+    },
+    {
+      "id": 9,
+      "title": "推导札记：Landau理论怎样让“出现有序”变成一次分岔？",
+      "path": "derivations/09-landau-theory.md",
+      "chapter": 8,
+      "nav_title": "朗道理论"
+    },
+    {
+      "id": 10,
+      "title": "推导札记：为什么四维对 $\\phi^4$ 理论特别？",
+      "path": "derivations/10-phi4-scaling.md",
+      "chapter": 8,
+      "nav_title": "四次方相互作用的标度"
+    },
+    {
+      "id": 11,
+      "title": "推导札记：缓慢绕一圈，量子态为什么可能没有“原样回来”？",
+      "path": "derivations/11-berry-phase.md",
+      "chapter": 9,
+      "nav_title": "贝里相位"
+    },
+    {
+      "id": 12,
+      "title": "推导札记：一个涡旋的能量与熵怎样竞争？",
+      "path": "derivations/12-vortex-entropy.md",
+      "chapter": 9,
+      "nav_title": "涡旋的能量与熵"
+    },
+    {
+      "id": 13,
+      "title": "推导札记：噪声强度为什么不能随意指定？",
+      "path": "derivations/13-fluctuation-dissipation.md",
+      "chapter": 11,
+      "nav_title": "涨落与耗散"
+    },
+    {
+      "id": 14,
+      "title": "推导札记：先从静态例子理解“涨落能告诉我们响应”",
+      "path": "derivations/14-static-response.md",
+      "chapter": 11,
+      "nav_title": "静态涨落与响应"
+    },
+    {
+      "id": 15,
+      "title": "推导札记：一个非平衡过程，怎样精确给出平衡自由能差？",
+      "path": "derivations/15-jarzynski-equality.md",
+      "chapter": 11,
+      "nav_title": "贾津斯基等式"
+    },
+    {
+      "id": 16,
+      "title": "推导札记：Cole—Hopf变换与白噪声极限",
+      "path": "derivations/16-cole-hopf.md",
+      "chapter": 11,
+      "nav_title": "Cole—Hopf 变换"
+    },
+    {
+      "id": 17,
+      "title": "推导札记：没有拉长化学键，回复力也能出现",
+      "path": "derivations/17-polymer-elasticity.md",
+      "chapter": 12,
+      "nav_title": "高分子熵弹性"
+    },
+    {
+      "id": 18,
+      "title": "推导札记：Bell争论怎样变成一个能测的数？",
+      "path": "derivations/18-bell-chsh.md",
+      "chapter": 15,
+      "nav_title": "贝尔与 CHSH 不等式"
+    },
+    {
+      "id": 19,
+      "title": "推导札记：一个恒星质量上限，为什么会含有 $\\hbar$？",
+      "path": "derivations/19-chandrasekhar-mass.md",
+      "chapter": 16,
+      "nav_title": "钱德拉塞卡质量"
+    },
+    {
+      "id": 20,
+      "title": "推导札记：接受Hawking温度以后，面积熵怎样接上热力学？",
+      "path": "derivations/20-black-hole-entropy.md",
+      "chapter": 18,
+      "nav_title": "黑洞面积熵"
+    }
+  ]
+}

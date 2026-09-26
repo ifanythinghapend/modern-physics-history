@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "1.1",
+    "title": "热究竟是什么，热机为什么不能循环地把单一热源的热全部变成功？",
+    "chapter": 1,
+    "source_file": "chapters/01-thermal-legacy.md",
+    "anchor": "q-1-1",
+    "urls": [
+      "https://pubs.aip.org/aapt/ajp/article/45/11/1130/529253/The-Kind-of-Motion-We-Call-Heat-A-History-of-the",
+      "https://www.gutenberg.org/files/78610/78610-h/78610-h.htm",
+      "https://www.feynmanlectures.caltech.edu/I_44.html"
+    ],
+    "derivations": [],
+    "index_label": "热究竟是什么，热机为什么不能循环地把单一热源的热全部变成功？",
+    "references": [
+      "001",
+      "002",
+      "003"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "1.2",
+    "title": "宏观的温度和压强，能否从看不见的粒子运动中算出？",
+    "chapter": 1,
+    "source_file": "chapters/01-thermal-legacy.md",
+    "anchor": "q-1-2",
+    "urls": [
+      "https://www.gutenberg.org/ebooks/50992",
+      "https://cmsr.rutgers.edu/images/people/lebowitz_joel/publications-archived/lebowitz_370.pdf"
+    ],
+    "derivations": [],
+    "index_label": "宏观的温度和压强，能否从看不见的粒子运动中算出？",
+    "references": [
+      "004",
+      "005"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "1.3",
+    "title": "电、磁和光是不是同一类东西？",
+    "chapter": 1,
+    "source_file": "chapters/01-thermal-legacy.md",
+    "anchor": "q-1-3",
+    "urls": [
+      "https://royalsocietypublishing.org/rstl/article/doi/10.1098/rstl.1865.0008/118816/VIII-A-dynamical-theory-of-the-electromagnetic",
+      "https://www.feynmanlectures.caltech.edu/II_20.html"
+    ],
+    "derivations": [
+      "derivations/01-em-wave.md"
+    ],
+    "index_label": "电、磁和光是不是同一类东西？",
+    "references": [
+      "006",
+      "007"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "1.4",
+    "title": "原子是计算工具，还是真实存在的东西？",
+    "chapter": 1,
+    "source_file": "chapters/01-thermal-legacy.md",
+    "anchor": "q-1-4",
+    "urls": [
+      "https://pubs.aip.org/aapt/ajp/article/74/6/478/1041859/Einstein-Perrin-and-the-reality-of-atoms-1905",
+      "https://www.feynmanlectures.caltech.edu/I_43.html"
+    ],
+    "derivations": [
+      "derivations/02-brownian-motion.md"
+    ],
+    "index_label": "原子是计算工具，还是真实存在的东西？",
+    "references": [
+      "008",
+      "009"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "2.1",
+    "title": "一个烧热的物体，为什么以特定方式分配不同颜色的光？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-1",
+    "urls": [
+      "https://www.mpg.de/19252749/what-did-max-planck-discover",
+      "https://de.wikisource.org/wiki/Ueber_das_Gesetz_der_Energieverteilung_im_Normalspectrum",
+      "https://commons.princeton.edu/josephhenry/wp-content/uploads/sites/71/2021/01/Planck-1900-Distribution-Law.pdf",
+      "https://onlinelibrary.wiley.com/doi/10.1002/andp.19013090310",
+      "https://www.theory.physics.ubc.ca/200-06/Planck-1901.html",
+      "https://farside.ph.utexas.edu/teaching/sm1/statmech.pdf",
+      "https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/368b2180e6efa1417ab336d79b2df6db_MIT8_333F13_Lec20.pdf"
+    ],
+    "derivations": [
+      "derivations/03-planck-spectrum.md"
+    ],
+    "index_label": "一个烧热的物体，为什么以特定方式分配不同颜色的光？",
+    "references": [
+      "010",
+      "011",
+      "188",
+      "189",
+      "190",
+      "191",
+      "192"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "2.2",
+    "title": "为什么提高光的强度，不能随意提高被打出电子的能量？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-2",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+      "https://link.aps.org/doi/10.1103/PhysRev.21.483"
+    ],
+    "derivations": [],
+    "index_label": "为什么提高光的强度，不能随意提高被打出电子的能量？",
+    "references": [
+      "012",
+      "013"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "2.3",
+    "title": "原子为什么不塌缩，为什么只发出离散谱线？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-3",
+    "urls": [
+      "https://www.tandfonline.com/doi/abs/10.1080/14786441308634955",
+      "https://www.feynmanlectures.caltech.edu/III_19.html",
+      "https://arxiv.org/abs/math-ph/0401004"
+    ],
+    "derivations": [
+      "derivations/04-atomic-scale.md"
+    ],
+    "index_label": "原子为什么不塌缩，为什么只发出离散谱线？",
+    "references": [
+      "014",
+      "015",
+      "016"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "2.4",
+    "title": "我们是不是一开始就选错了描述原子的对象？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-4",
+    "urls": [
+      "https://history.aip.org/exhibits/heisenberg/quantum-mechanic.html",
+      "https://www.aps.org/apsnews/2025/07/werner-heisenberg-pioneers-quantum-mechanics"
+    ],
+    "derivations": [],
+    "index_label": "我们是不是一开始就选错了描述原子的对象？",
+    "references": [
+      "017",
+      "018"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "2.5",
+    "title": "为什么电子不全部掉进同一个最低能态？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-5",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1945/pauli/facts/",
+      "https://link.springer.com/article/10.1007/BF01326983",
+      "https://arxiv.org/abs/math-ph/0401004"
+    ],
+    "derivations": [],
+    "index_label": "为什么电子不全部掉进同一个最低能态？",
+    "references": [
+      "019",
+      "020",
+      "016"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "2.6",
+    "title": "量子理论能给出实验结果，是否就已经解释了现实？",
+    "chapter": 2,
+    "source_file": "chapters/02-quantum-birth.md",
+    "anchor": "q-2-6",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysicsPhysiqueFizika.1.195",
+      "https://link.aps.org/doi/10.1103/PhysRev.47.777",
+      "https://arxiv.org/abs/quant-ph/0105127"
+    ],
+    "derivations": [],
+    "index_label": "量子理论能给出实验结果，是否就已经解释了现实？",
+    "references": [
+      "021",
+      "022",
+      "023"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "3.1",
+    "title": "运动观察者之间，究竟什么保持不变？",
+    "chapter": 3,
+    "source_file": "chapters/03-relativity.md",
+    "anchor": "q-3-1",
+    "urls": [
+      "https://www.einstein-online.info/en/",
+      "https://arxiv.org/abs/gr-qc/9712019"
+    ],
+    "derivations": [],
+    "index_label": "运动观察者之间，究竟什么保持不变？",
+    "references": [
+      "024",
+      "025"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "3.2",
+    "title": "引力为什么让不同物体以同样方式自由下落？",
+    "chapter": 3,
+    "source_file": "chapters/03-relativity.md",
+    "anchor": "q-3-2",
+    "urls": [
+      "https://adsabs.harvard.edu/pdf/1917SPAW.......142E",
+      "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity/",
+      "https://arxiv.org/abs/gr-qc/9712019"
+    ],
+    "derivations": [
+      "derivations/05-einstein-equation.md"
+    ],
+    "index_label": "引力为什么让不同物体以同样方式自由下落？",
+    "references": [
+      "026",
+      "027",
+      "025"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "3.3",
+    "title": "几何引力怎样接受检验？",
+    "chapter": 3,
+    "source_file": "chapters/03-relativity.md",
+    "anchor": "q-3-3",
+    "urls": [
+      "https://arxiv.org/abs/1602.03837",
+      "https://arxiv.org/abs/1403.7377"
+    ],
+    "derivations": [],
+    "index_label": "几何引力怎样接受检验？",
+    "references": [
+      "028",
+      "029"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "3.4",
+    "title": "方程有一个精确解，这个解就会在宇宙中出现吗？",
+    "chapter": 3,
+    "source_file": "chapters/03-relativity.md",
+    "anchor": "q-3-4",
+    "urls": [
+      "https://arxiv.org/abs/2205.14808",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.14.57"
+    ],
+    "derivations": [],
+    "index_label": "方程有一个精确解，这个解就会在宇宙中出现吗？",
+    "references": [
+      "030",
+      "031"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "4.1",
+    "title": "怎样同时尊重量子原理与相对论？",
+    "chapter": 4,
+    "source_file": "chapters/04-quantum-fields.md",
+    "anchor": "q-4-1",
+    "urls": [
+      "https://royalsocietypublishing.org/rspa/article/117/778/610/2242/The-quantum-theory-of-the-electron",
+      "https://link.aps.org/doi/10.1103/PhysRev.43.491"
+    ],
+    "derivations": [
+      "derivations/06-dirac-equation.md"
+    ],
+    "index_label": "怎样同时尊重量子原理与相对论？",
+    "references": [
+      "032",
+      "033"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "4.2",
+    "title": "理论算出无穷大，是完全错了，还是我们没有正确联系可观测量？",
+    "chapter": 4,
+    "source_file": "chapters/04-quantum-fields.md",
+    "anchor": "q-4-2",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1965/ceremony-speech/"
+    ],
+    "derivations": [],
+    "index_label": "理论算出无穷大，是完全错了，还是我们没有正确联系可观测量？",
+    "references": [
+      "034"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "4.3",
+    "title": "为什么把所有路径加起来，能算出量子运动？",
+    "chapter": 4,
+    "source_file": "chapters/04-quantum-fields.md",
+    "anchor": "q-4-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.20.367",
+      "https://link.aps.org/doi/10.1103/PhysRev.101.860"
+    ],
+    "derivations": [
+      "derivations/07-stationary-action.md"
+    ],
+    "index_label": "为什么把所有路径加起来，能算出量子运动？",
+    "references": [
+      "035",
+      "036"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "4.4",
+    "title": "不掌握最深的理论，能否仍然做可靠预测？",
+    "chapter": 4,
+    "source_file": "chapters/04-quantum-fields.md",
+    "anchor": "q-4-4",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/0378437179902231"
+    ],
+    "derivations": [],
+    "index_label": "不掌握最深的理论，能否仍然做可靠预测？",
+    "references": [
+      "037"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "5.1",
+    "title": "物质为什么会自己放出穿透性辐射？",
+    "chapter": 5,
+    "source_file": "chapters/05-nuclei.md",
+    "anchor": "q-5-1",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1935/chadwick/biographical/"
+    ],
+    "derivations": [],
+    "index_label": "物质为什么会自己放出穿透性辐射？",
+    "references": [
+      "038"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "5.2",
+    "title": "许多质子和中子，为什么有的组合特别稳定？",
+    "chapter": 5,
+    "source_file": "chapters/05-nuclei.md",
+    "anchor": "q-5-2",
+    "urls": [
+      "https://www.nobelprize.org/stories/women-who-changed-science/maria-goeppert-mayer/",
+      "https://www.nobelprize.org/prizes/physics/1975/summary/"
+    ],
+    "derivations": [],
+    "index_label": "许多质子和中子，为什么有的组合特别稳定？",
+    "references": [
+      "039",
+      "040"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "5.3",
+    "title": "β衰变中，能量为什么好像不守恒？",
+    "chapter": 5,
+    "source_file": "chapters/05-nuclei.md",
+    "anchor": "q-5-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.68.317"
+    ],
+    "derivations": [],
+    "index_label": "β衰变中，能量为什么好像不守恒？",
+    "references": [
+      "041"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "5.4",
+    "title": "重原子核为什么会分裂，并释放那么多能量？",
+    "chapter": 5,
+    "source_file": "chapters/05-nuclei.md",
+    "anchor": "q-5-4",
+    "urls": [
+      "https://www.nature.com/articles/143239a0"
+    ],
+    "derivations": [],
+    "index_label": "重原子核为什么会分裂，并释放那么多能量？",
+    "references": [
+      "042"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "5.5",
+    "title": "核力既然最终来自夸克，为什么还要研究原子核？",
+    "chapter": 5,
+    "source_file": "chapters/05-nuclei.md",
+    "anchor": "q-5-5",
+    "urls": [
+      "https://arxiv.org/abs/0811.1338",
+      "https://arxiv.org/abs/1305.3510"
+    ],
+    "derivations": [],
+    "index_label": "核力既然最终来自夸克，为什么还要研究原子核？",
+    "references": [
+      "043",
+      "044"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "6.1",
+    "title": "发现的粒子越来越多，究竟哪些才是基本对象？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-1",
+    "urls": [
+      "https://arxiv.org/abs/hep-ph/0401010"
+    ],
+    "derivations": [],
+    "index_label": "发现的粒子越来越多，究竟哪些才是基本对象？",
+    "references": [
+      "045"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "6.2",
+    "title": "我们认为必然成立的对称性，真的被实验检验过吗？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.105.1413",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.13.138",
+      "https://doi.org/10.1143/PTP.49.652"
+    ],
+    "derivations": [],
+    "index_label": "我们认为必然成立的对称性，真的被实验检验过吗？",
+    "references": [
+      "046",
+      "047",
+      "048"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "6.3",
+    "title": "相互作用能不能由一种统一的结构组织起来？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.96.191",
+      "https://link.aps.org/doi/10.1103/RevModPhys.73.663",
+      "https://arxiv.org/abs/physics/0503066"
+    ],
+    "derivations": [
+      "derivations/08-noether-current.md"
+    ],
+    "index_label": "相互作用能不能由一种统一的结构组织起来？",
+    "references": [
+      "049",
+      "050",
+      "051"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "6.4",
+    "title": "规范理论看起来偏好无质量媒介，弱相互作用为什么又是短程的？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-4",
+    "urls": [
+      "https://timeline.web.cern.ch/timeline-header/89",
+      "https://atlas.cern/Discover/Physics/Higgs",
+      "https://www.science.org/doi/10.1126/science.1163233"
+    ],
+    "derivations": [],
+    "index_label": "规范理论看起来偏好无质量媒介，弱相互作用为什么又是短程的？",
+    "references": [
+      "052",
+      "053",
+      "054"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "6.5",
+    "title": "为什么夸克在高能实验中好像很自由，却又从来不能轻易被单独拉出来？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-5",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/2004/popular-information/",
+      "https://link.aps.org/doi/10.1103/PhysRevD.10.2445"
+    ],
+    "derivations": [],
+    "index_label": "为什么夸克在高能实验中好像很自由，却又从来不能轻易被单独拉出来？",
+    "references": [
+      "055",
+      "056"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "6.6",
+    "title": "标准模型如此成功，我们还缺什么？",
+    "chapter": 6,
+    "source_file": "chapters/06-particles.md",
+    "anchor": "q-6-6",
+    "urls": [
+      "https://arxiv.org/abs/hep-ex/9807003",
+      "https://arxiv.org/abs/nucl-ex/0204008",
+      "https://arxiv.org/abs/2211.11084"
+    ],
+    "derivations": [],
+    "index_label": "标准模型如此成功，我们还缺什么？",
+    "references": [
+      "057",
+      "058",
+      "059"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "7.1",
+    "title": "为什么有些材料导电，有些绝缘？",
+    "chapter": 7,
+    "source_file": "chapters/07-condensed-matter.md",
+    "anchor": "q-7-1",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1952/bloch/biographical/",
+      "https://www.aps.org/funding-recognition/historic-sites/bell-telephone-laboratories"
+    ],
+    "derivations": [],
+    "index_label": "为什么有些材料导电，有些绝缘？",
+    "references": [
+      "060",
+      "061"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "7.2",
+    "title": "大量电子互相排斥，为什么还能像自由粒子一样描述？",
+    "chapter": 7,
+    "source_file": "chapters/07-condensed-matter.md",
+    "anchor": "q-7-2",
+    "urls": [
+      "https://royalsocietypublishing.org/rspa/article/276/1365/238/11567/Electron-correlations-in-narrow-energy-bands",
+      "https://arxiv.org/abs/cond-mat/9307009"
+    ],
+    "derivations": [],
+    "index_label": "大量电子互相排斥，为什么还能像自由粒子一样描述？",
+    "references": [
+      "062",
+      "063"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "7.3",
+    "title": "无序只是增加碰撞，还是会从根本上阻止传播？",
+    "chapter": 7,
+    "source_file": "chapters/07-condensed-matter.md",
+    "anchor": "q-7-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.109.1492",
+      "https://arxiv.org/abs/1804.11065"
+    ],
+    "derivations": [],
+    "index_label": "无序只是增加碰撞，还是会从根本上阻止传播？",
+    "references": [
+      "064",
+      "065"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "7.4",
+    "title": "为什么电子会集体进入完全不同的导电状态？",
+    "chapter": 7,
+    "source_file": "chapters/07-condensed-matter.md",
+    "anchor": "q-7-4",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.108.1175",
+      "https://doi.org/10.1016/0031-9163%2862%2991369-0"
+    ],
+    "derivations": [],
+    "index_label": "为什么电子会集体进入完全不同的导电状态？",
+    "references": [
+      "066",
+      "067"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "7.5",
+    "title": "常规理论成功以后，为什么超导仍然是前沿？",
+    "chapter": 7,
+    "source_file": "chapters/07-condensed-matter.md",
+    "anchor": "q-7-5",
+    "urls": [
+      "https://arxiv.org/abs/cond-mat/0410550",
+      "https://www.nature.com/articles/nature26160",
+      "https://arxiv.org/abs/1409.4673"
+    ],
+    "derivations": [],
+    "index_label": "常规理论成功以后，为什么超导仍然是前沿？",
+    "references": [
+      "068",
+      "069",
+      "070"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "8.1",
+    "title": "一块磁铁怎样从无磁变成有磁？",
+    "chapter": 8,
+    "source_file": "chapters/08-criticality.md",
+    "anchor": "q-8-1",
+    "urls": [
+      "https://link.springer.com/article/10.1007/BF02980577",
+      "https://www.nobelprize.org/prizes/physics/1982/wilson/lecture/"
+    ],
+    "derivations": [
+      "derivations/09-landau-theory.md"
+    ],
+    "index_label": "一块磁铁怎样从无磁变成有磁？",
+    "references": [
+      "071",
+      "072"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "8.2",
+    "title": "平均场已经能解释相变，为什么还不够？",
+    "chapter": 8,
+    "source_file": "chapters/08-criticality.md",
+    "anchor": "q-8-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.65.117"
+    ],
+    "derivations": [],
+    "index_label": "平均场已经能解释相变，为什么还不够？",
+    "references": [
+      "073"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "8.3",
+    "title": "看得更粗以后，理论本身会怎样变化？",
+    "chapter": 8,
+    "source_file": "chapters/08-criticality.md",
+    "anchor": "q-8-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysicsPhysiqueFizika.2.263",
+      "https://link.aps.org/doi/10.1103/PhysRevB.4.3174",
+      "https://link.aps.org/doi/10.1103/RevModPhys.49.435",
+      "https://arxiv.org/abs/cond-mat/9307009"
+    ],
+    "derivations": [
+      "derivations/10-phi4-scaling.md"
+    ],
+    "index_label": "看得更粗以后，理论本身会怎样变化？",
+    "references": [
+      "074",
+      "075",
+      "076",
+      "063"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "8.4",
+    "title": "为什么研究磁铁，会遇到粒子物理的“重整化”？",
+    "chapter": 8,
+    "source_file": "chapters/08-criticality.md",
+    "anchor": "q-8-4",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1982/wilson/lecture/",
+      "https://www.science.org/doi/10.1126/science.177.4047.393"
+    ],
+    "derivations": [],
+    "index_label": "为什么研究磁铁，会遇到粒子物理的“重整化”？",
+    "references": [
+      "072",
+      "077"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "8.5",
+    "title": "临界点上，能否用对称性直接约束关联函数？",
+    "chapter": 8,
+    "source_file": "chapters/08-criticality.md",
+    "anchor": "q-8-5",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/055032138490052X",
+      "https://arxiv.org/abs/0807.0004"
+    ],
+    "derivations": [],
+    "index_label": "临界点上，能否用对称性直接约束关联函数？",
+    "references": [
+      "078",
+      "079"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "9.1",
+    "title": "磁场为零的路径区域，为什么仍能显示磁通的量子效应？",
+    "chapter": 9,
+    "source_file": "chapters/09-topological-matter.md",
+    "anchor": "q-9-1",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.115.485",
+      "https://royalsocietypublishing.org/rspa/article/392/1802/45/15579/Quantal-phase-factors-accompanying-adiabatic"
+    ],
+    "derivations": [
+      "derivations/11-berry-phase.md"
+    ],
+    "index_label": "磁场为零的路径区域，为什么仍能显示磁通的量子效应？",
+    "references": [
+      "080",
+      "081"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "9.2",
+    "title": "二维连续对称性系统没有通常长程有序，就没有相变吗？",
+    "chapter": 9,
+    "source_file": "chapters/09-topological-matter.md",
+    "anchor": "q-9-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.17.1133",
+      "https://www.nobelprize.org/prizes/physics/2016/popular-information/",
+      "https://www.nobelprize.org/prizes/physics/2016/advanced-information/"
+    ],
+    "derivations": [
+      "derivations/12-vortex-entropy.md"
+    ],
+    "index_label": "二维连续对称性系统没有通常长程有序，就没有相变吗？",
+    "references": [
+      "082",
+      "083",
+      "084"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "9.3",
+    "title": "为什么一种电导能精确到像在数整数？",
+    "chapter": 9,
+    "source_file": "chapters/09-topological-matter.md",
+    "anchor": "q-9-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.49.405"
+    ],
+    "derivations": [],
+    "index_label": "为什么一种电导能精确到像在数整数？",
+    "references": [
+      "085"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "9.4",
+    "title": "电子电荷固定，为什么集体激发可以带分数电荷？",
+    "chapter": 9,
+    "source_file": "chapters/09-topological-matter.md",
+    "anchor": "q-9-4",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.50.1395",
+      "https://link.aps.org/doi/10.1103/RevModPhys.80.1083"
+    ],
+    "derivations": [],
+    "index_label": "电子电荷固定，为什么集体激发可以带分数电荷？",
+    "references": [
+      "086",
+      "087"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "9.5",
+    "title": "能否没有外加净磁场，也出现拓扑能带？",
+    "chapter": 9,
+    "source_file": "chapters/09-topological-matter.md",
+    "anchor": "q-9-5",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/2016/advanced-information/",
+      "https://arxiv.org/abs/1002.3895"
+    ],
+    "derivations": [],
+    "index_label": "能否没有外加净磁场，也出现拓扑能带？",
+    "references": [
+      "084",
+      "088"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "10.1",
+    "title": "一旦知道方程和初态，就真的能长期预测吗？",
+    "chapter": 10,
+    "source_file": "chapters/10-nonlinear-dynamics.md",
+    "anchor": "q-10-1",
+    "urls": [
+      "https://journals.ametsoc.org/view/journals/atsc/20/2/1520-0469_1963_020_0130_dnf_2_0_co_2.xml"
+    ],
+    "derivations": [],
+    "index_label": "一旦知道方程和初态，就真的能长期预测吗？",
+    "references": [
+      "089"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "10.2",
+    "title": "非线性系统必然很快达到热平衡吗？",
+    "chapter": 10,
+    "source_file": "chapters/10-nonlinear-dynamics.md",
+    "anchor": "q-10-2",
+    "urls": [
+      "https://arxiv.org/abs/0801.1590",
+      "https://arxiv.org/abs/1509.06411"
+    ],
+    "derivations": [],
+    "index_label": "非线性系统必然很快达到热平衡吗？",
+    "references": [
+      "090",
+      "091"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "10.3",
+    "title": "流体方程很早就有了，为什么湍流还没有“算完”？",
+    "chapter": 10,
+    "source_file": "chapters/10-nonlinear-dynamics.md",
+    "anchor": "q-10-3",
+    "urls": [
+      "https://www.claymath.org/millennium/navier-stokes-equation/",
+      "https://doi.org/10.1098/rspa.1991.0075"
+    ],
+    "derivations": [],
+    "index_label": "流体方程很早就有了，为什么湍流还没有“算完”？",
+    "references": [
+      "092",
+      "093"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "10.4",
+    "title": "天气混沌，为什么仍然可以研究气候？",
+    "chapter": 10,
+    "source_file": "chapters/10-nonlinear-dynamics.md",
+    "anchor": "q-10-4",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/2021/popular-information/"
+    ],
+    "derivations": [],
+    "index_label": "天气混沌，为什么仍然可以研究气候？",
+    "references": [
+      "094"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "11.1",
+    "title": "摩擦让运动衰减，为什么微小颗粒又永远在抖动？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-1",
+    "urls": [
+      "https://pubs.aip.org/aapt/ajp/article/65/11/1079/1054916/Paul-Langevin-s-1908-paper-On-the-Theory-of"
+    ],
+    "derivations": [
+      "derivations/13-fluctuation-dissipation.md"
+    ],
+    "index_label": "摩擦让运动衰减，为什么微小颗粒又永远在抖动？",
+    "references": [
+      "095"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "11.2",
+    "title": "不真的施加一个外场，能不能从平衡涨落预测系统的响应？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.37.405",
+      "https://journals.jps.jp/doi/10.1143/JPSJ.12.570",
+      "https://www.gutenberg.org/ebooks/50992"
+    ],
+    "derivations": [
+      "derivations/14-static-response.md"
+    ],
+    "index_label": "不真的施加一个外场，能不能从平衡涨落预测系统的响应？",
+    "references": [
+      "096",
+      "097",
+      "004"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "11.3",
+    "title": "持续输入能量，为什么反而可能产生有序结构？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.65.851"
+    ],
+    "derivations": [],
+    "index_label": "持续输入能量，为什么反而可能产生有序结构？",
+    "references": [
+      "098"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "11.4",
+    "title": "微小系统偶尔逆着第二定律波动，热力学还成立吗？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-4",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.78.2690",
+      "https://arxiv.org/abs/1205.4176"
+    ],
+    "derivations": [
+      "derivations/15-jarzynski-equality.md"
+    ],
+    "index_label": "微小系统偶尔逆着第二定律波动，热力学还成立吗？",
+    "references": [
+      "099",
+      "100"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "11.5",
+    "title": "一条随机生长的边界，为什么会有可重复的粗糙规律？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-5",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.56.889",
+      "https://arxiv.org/abs/1001.5121"
+    ],
+    "derivations": [],
+    "index_label": "一条随机生长的边界，为什么会有可重复的粗糙规律？",
+    "references": [
+      "101",
+      "102"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "11.6",
+    "title": "一个物理上很好用的随机方程，为什么数学上甚至还没定义好？",
+    "chapter": 11,
+    "source_file": "chapters/11-nonequilibrium.md",
+    "anchor": "q-11-6",
+    "urls": [
+      "https://link.springer.com/article/10.1007/s002200050044",
+      "https://annals.math.princeton.edu/2013/178-2/p04",
+      "https://arxiv.org/abs/2507.08341",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.56.889"
+    ],
+    "derivations": [
+      "derivations/16-cole-hopf.md"
+    ],
+    "index_label": "一个物理上很好用的随机方程，为什么数学上甚至还没定义好？",
+    "references": [
+      "103",
+      "104",
+      "105",
+      "101"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "12.1",
+    "title": "一条长链分子，为什么可以表现得像弹簧？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-1",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1991/press-release/",
+      "https://link.aps.org/doi/10.1103/RevModPhys.68.1259"
+    ],
+    "derivations": [
+      "derivations/17-polymer-elasticity.md"
+    ],
+    "index_label": "一条长链分子，为什么可以表现得像弹簧？",
+    "references": [
+      "106",
+      "107"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "12.2",
+    "title": "一层薄膜为什么会弯曲、出芽，甚至形成复杂形状？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-2",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/4273690/"
+    ],
+    "derivations": [],
+    "index_label": "一层薄膜为什么会弯曲、出芽，甚至形成复杂形状？",
+    "references": [
+      "108"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "12.3",
+    "title": "每个个体只看附近，为什么整个群体会一起运动？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.75.1226",
+      "https://arxiv.org/abs/adap-org/9506001"
+    ],
+    "derivations": [],
+    "index_label": "每个个体只看附近，为什么整个群体会一起运动？",
+    "references": [
+      "109",
+      "110"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "12.4",
+    "title": "持续消耗能量的材料，有没有不同于被动物质的力学？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-4",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.85.1143"
+    ],
+    "derivations": [],
+    "index_label": "持续消耗能量的材料，有没有不同于被动物质的力学？",
+    "references": [
+      "111"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "12.5",
+    "title": "细胞怎样在分子碰撞的噪声中感知环境？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-5",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1473391/"
+    ],
+    "derivations": [],
+    "index_label": "细胞怎样在分子碰撞的噪声中感知环境？",
+    "references": [
+      "112"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "12.6",
+    "title": "神经信号与生物形态，能不能由可检验的动力学解释？",
+    "chapter": 12,
+    "source_file": "chapters/12-soft-active-living-matter.md",
+    "anchor": "q-12-6",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1392413/",
+      "https://royalsocietypublishing.org/rstb/article/237/641/37/112910/The-chemical-basis-of-morphogenesis",
+      "https://doi.org/10.1126/science.181.4096.223"
+    ],
+    "derivations": [],
+    "index_label": "神经信号与生物形态，能不能由可检验的动力学解释？",
+    "references": [
+      "113",
+      "114",
+      "115"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "13.1",
+    "title": "把气体电离以后，它为什么不只是“更热的气体”？",
+    "chapter": 13,
+    "source_file": "chapters/13-plasmas.md",
+    "anchor": "q-13-1",
+    "urls": [
+      "https://www.nature.com/articles/150405d0",
+      "https://farside.ph.utexas.edu/teaching/plasma/Plasmahtml/Plasmahtml.html"
+    ],
+    "derivations": [],
+    "index_label": "把气体电离以后，它为什么不只是“更热的气体”？",
+    "references": [
+      "116",
+      "117"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "13.2",
+    "title": "磁场线为什么会突然改变连接方式并释放能量？",
+    "chapter": 13,
+    "source_file": "chapters/13-plasmas.md",
+    "anchor": "q-13-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.82.603",
+      "https://www.annualreviews.org/content/journals/10.1146/annurev-astro-082708-101726"
+    ],
+    "derivations": [],
+    "index_label": "磁场线为什么会突然改变连接方式并释放能量？",
+    "references": [
+      "118",
+      "119"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "13.3",
+    "title": "为什么实现核聚变，不等于已经实现聚变发电？",
+    "chapter": 13,
+    "source_file": "chapters/13-plasmas.md",
+    "anchor": "q-13-3",
+    "urls": [
+      "https://lasers.llnl.gov/science/achieving-fusion-ignition"
+    ],
+    "derivations": [],
+    "index_label": "为什么实现核聚变，不等于已经实现聚变发电？",
+    "references": [
+      "120"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "14.1",
+    "title": "量子理论怎样解释化学键和分子结构？",
+    "chapter": 14,
+    "source_file": "chapters/14-atoms-light.md",
+    "anchor": "q-14-1",
+    "urls": [
+      "https://link.springer.com/article/10.1007/BF01397394",
+      "https://onlinelibrary.wiley.com/doi/10.1002/andp.19273892002",
+      "https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-032210-103522"
+    ],
+    "derivations": [],
+    "index_label": "量子理论怎样解释化学键和分子结构？",
+    "references": [
+      "121",
+      "122",
+      "123"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "14.2",
+    "title": "光能不能被做成高度可控的放大器与探针？",
+    "chapter": 14,
+    "source_file": "chapters/14-atoms-light.md",
+    "anchor": "q-14-2",
+    "urls": [
+      "https://www.nature.com/articles/187493a0",
+      "https://link.aps.org/doi/10.1103/PhysRev.131.2766"
+    ],
+    "derivations": [],
+    "index_label": "光能不能被做成高度可控的放大器与探针？",
+    "references": [
+      "124",
+      "125"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "14.3",
+    "title": "光通常加热物体，为什么又能用来冷却原子？",
+    "chapter": 14,
+    "source_file": "chapters/14-atoms-light.md",
+    "anchor": "q-14-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.70.721",
+      "https://www.nobelprize.org/prizes/physics/2001/popular-information/"
+    ],
+    "derivations": [],
+    "index_label": "光通常加热物体，为什么又能用来冷却原子？",
+    "references": [
+      "126",
+      "127"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "14.4",
+    "title": "能否在实验室中“搭建”一个想研究的多体模型？",
+    "chapter": 14,
+    "source_file": "chapters/14-atoms-light.md",
+    "anchor": "q-14-4",
+    "urls": [
+      "https://arxiv.org/abs/1308.6253"
+    ],
+    "derivations": [],
+    "index_label": "能否在实验室中“搭建”一个想研究的多体模型？",
+    "references": [
+      "128"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "14.5",
+    "title": "我们能把时间和运动测量到多细？",
+    "chapter": 14,
+    "source_file": "chapters/14-atoms-light.md",
+    "anchor": "q-14-5",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRev.69.37",
+      "https://www.nature.com/articles/s41586-021-04349-7",
+      "https://www.sciencedirect.com/science/article/pii/0030401885901208",
+      "https://www.nobelprize.org/prizes/physics/2023/press-release/"
+    ],
+    "derivations": [],
+    "index_label": "我们能把时间和运动测量到多细？",
+    "references": [
+      "129",
+      "130",
+      "131",
+      "132"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "15.1",
+    "title": "量子关联真的超出了局域经典解释吗？",
+    "chapter": 15,
+    "source_file": "chapters/15-quantum-information.md",
+    "anchor": "q-15-1",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/2022/popular-information/",
+      "https://www.nature.com/articles/nature15759",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.23.880"
+    ],
+    "derivations": [
+      "derivations/18-bell-chsh.md"
+    ],
+    "index_label": "量子关联真的超出了局域经典解释吗？",
+    "references": [
+      "133",
+      "134",
+      "135"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "15.2",
+    "title": "量子世界的非经典性，能不能完成新的信息任务？",
+    "chapter": 15,
+    "source_file": "chapters/15-quantum-information.md",
+    "anchor": "q-15-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevLett.70.1895",
+      "https://arxiv.org/abs/quant-ph/0101098"
+    ],
+    "derivations": [],
+    "index_label": "量子世界的非经典性，能不能完成新的信息任务？",
+    "references": [
+      "136",
+      "137"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "15.3",
+    "title": "量子系统难以经典模拟，能否反过来用量子系统计算？",
+    "chapter": 15,
+    "source_file": "chapters/15-quantum-information.md",
+    "anchor": "q-15-3",
+    "urls": [
+      "https://link.springer.com/article/10.1007/BF02650179",
+      "https://arxiv.org/abs/quant-ph/9508027"
+    ],
+    "derivations": [],
+    "index_label": "量子系统难以经典模拟，能否反过来用量子系统计算？",
+    "references": [
+      "138",
+      "139"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "15.4",
+    "title": "量子态如此脆弱，怎样避免计算被噪声毁掉？",
+    "chapter": 15,
+    "source_file": "chapters/15-quantum-information.md",
+    "anchor": "q-15-4",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevA.52.R2493",
+      "https://arxiv.org/abs/2408.13687"
+    ],
+    "derivations": [],
+    "index_label": "量子态如此脆弱，怎样避免计算被噪声毁掉？",
+    "references": [
+      "140",
+      "141"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "15.5",
+    "title": "信息为什么会与热、能量和宏观电路相联系？",
+    "chapter": 15,
+    "source_file": "chapters/15-quantum-information.md",
+    "anchor": "q-15-5",
+    "urls": [
+      "https://ieeexplore.ieee.org/document/5392446",
+      "https://www.nobelprize.org/prizes/physics/2025/press-release/"
+    ],
+    "derivations": [],
+    "index_label": "信息为什么会与热、能量和宏观电路相联系？",
+    "references": [
+      "142",
+      "143"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "16.1",
+    "title": "我们碰不到恒星，怎么知道它由什么组成？",
+    "chapter": 16,
+    "source_file": "chapters/16-astrophysics.md",
+    "anchor": "q-16-1",
+    "urls": [
+      "https://library.cfa.harvard.edu/cecilia-payne-gaposchkin/education-and-doctoral-thesis"
+    ],
+    "derivations": [],
+    "index_label": "我们碰不到恒星，怎么知道它由什么组成？",
+    "references": [
+      "144"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "16.2",
+    "title": "太阳为什么能发光这么久，元素又从哪里来？",
+    "chapter": 16,
+    "source_file": "chapters/16-astrophysics.md",
+    "anchor": "q-16-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.29.547",
+      "https://arxiv.org/abs/1710.05833"
+    ],
+    "derivations": [],
+    "index_label": "太阳为什么能发光这么久，元素又从哪里来？",
+    "references": [
+      "145",
+      "146"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "16.3",
+    "title": "恒星燃料耗尽后，什么能抵抗引力？",
+    "chapter": 16,
+    "source_file": "chapters/16-astrophysics.md",
+    "anchor": "q-16-3",
+    "urls": [
+      "https://arxiv.org/abs/1801.04323",
+      "https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/lecture/"
+    ],
+    "derivations": [
+      "derivations/19-chandrasekhar-mass.md"
+    ],
+    "index_label": "恒星燃料耗尽后，什么能抵抗引力？",
+    "references": [
+      "147",
+      "148"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "16.4",
+    "title": "黑洞看不见，为什么能成为观测科学？",
+    "chapter": 16,
+    "source_file": "chapters/16-astrophysics.md",
+    "anchor": "q-16-4",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/2020/popular-information/",
+      "https://arxiv.org/abs/1906.11238"
+    ],
+    "derivations": [],
+    "index_label": "黑洞看不见，为什么能成为观测科学？",
+    "references": [
+      "149",
+      "150"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "16.5",
+    "title": "我们为什么需要光以外的“信使”？",
+    "chapter": 16,
+    "source_file": "chapters/16-astrophysics.md",
+    "anchor": "q-16-5",
+    "urls": [
+      "https://arxiv.org/abs/2306.16213"
+    ],
+    "derivations": [],
+    "index_label": "我们为什么需要光以外的“信使”？",
+    "references": [
+      "151"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "17.1",
+    "title": "宇宙是静止舞台，还是自身在演化？",
+    "chapter": 17,
+    "source_file": "chapters/17-cosmology.md",
+    "anchor": "q-17-1",
+    "urls": [
+      "https://roman.gsfc.nasa.gov/feature_hubble_constant.html"
+    ],
+    "derivations": [],
+    "index_label": "宇宙是静止舞台，还是自身在演化？",
+    "references": [
+      "152"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "17.2",
+    "title": "热大爆炸模型怎样从可能性变成有证据支持的历史？",
+    "chapter": 17,
+    "source_file": "chapters/17-cosmology.md",
+    "anchor": "q-17-2",
+    "urls": [
+      "https://asd.gsfc.nasa.gov/archive/mather/mather/cobe.html"
+    ],
+    "derivations": [],
+    "index_label": "热大爆炸模型怎样从可能性变成有证据支持的历史？",
+    "references": [
+      "153"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "17.3",
+    "title": "宇宙如此均匀，星系的种子又从哪里来？",
+    "chapter": 17,
+    "source_file": "chapters/17-cosmology.md",
+    "anchor": "q-17-3",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevD.23.347",
+      "https://arxiv.org/abs/1807.06211"
+    ],
+    "derivations": [],
+    "index_label": "宇宙如此均匀，星系的种子又从哪里来？",
+    "references": [
+      "154",
+      "155"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "17.4",
+    "title": "根据发光物质计算，引力为什么总像是多了一部分？",
+    "chapter": 17,
+    "source_file": "chapters/17-cosmology.md",
+    "anchor": "q-17-4",
+    "urls": [
+      "https://ui.adsabs.harvard.edu/abs/1980ApJ...238..471R/abstract"
+    ],
+    "derivations": [],
+    "index_label": "根据发光物质计算，引力为什么总像是多了一部分？",
+    "references": [
+      "156"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "17.5",
+    "title": "宇宙有引力，为什么膨胀反而加速？",
+    "chapter": 17,
+    "source_file": "chapters/17-cosmology.md",
+    "anchor": "q-17-5",
+    "urls": [
+      "https://arxiv.org/abs/astro-ph/9805201",
+      "https://arxiv.org/abs/1807.06209",
+      "https://arxiv.org/abs/2503.14738"
+    ],
+    "derivations": [],
+    "index_label": "宇宙有引力，为什么膨胀反而加速？",
+    "references": [
+      "157",
+      "158",
+      "159"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "18.1",
+    "title": "东西掉进黑洞，它携带的熵去了哪里？",
+    "chapter": 18,
+    "source_file": "chapters/18-black-holes.md",
+    "anchor": "q-18-1",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevD.7.2333",
+      "https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-43/issue-3/Particle-creation-by-black-holes/cmp/1103899181.full"
+    ],
+    "derivations": [
+      "derivations/20-black-hole-entropy.md"
+    ],
+    "index_label": "东西掉进黑洞，它携带的熵去了哪里？",
+    "references": [
+      "160",
+      "161"
+    ],
+    "derivation_note": "有，见本节"
+  },
+  {
+    "id": "18.2",
+    "title": "真空和粒子，是不是所有观察者共享的同一概念？",
+    "chapter": 18,
+    "source_file": "chapters/18-black-holes.md",
+    "anchor": "q-18-2",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/PhysRevD.14.870"
+    ],
+    "derivations": [],
+    "index_label": "真空和粒子，是不是所有观察者共享的同一概念？",
+    "references": [
+      "162"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "18.3",
+    "title": "如果连时空也需要量子化，有哪些不同路线？",
+    "chapter": 18,
+    "source_file": "chapters/18-black-holes.md",
+    "anchor": "q-18-3",
+    "urls": [
+      "https://www.sciencedirect.com/science/article/pii/037026938491565X",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.57.2244"
+    ],
+    "derivations": [],
+    "index_label": "如果连时空也需要量子化，有哪些不同路线？",
+    "references": [
+      "163",
+      "164"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "18.4",
+    "title": "黑洞熵能否真的由微观态数出来？",
+    "chapter": 18,
+    "source_file": "chapters/18-black-holes.md",
+    "anchor": "q-18-4",
+    "urls": [
+      "https://arxiv.org/abs/hep-th/9601029",
+      "https://arxiv.org/abs/hep-th/9711200"
+    ],
+    "derivations": [],
+    "index_label": "黑洞熵能否真的由微观态数出来？",
+    "references": [
+      "165",
+      "166"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "18.5",
+    "title": "黑洞蒸发以后，量子信息是否丢失？",
+    "chapter": 18,
+    "source_file": "chapters/18-black-holes.md",
+    "anchor": "q-18-5",
+    "urls": [
+      "https://link.aps.org/doi/10.1103/RevModPhys.93.035002"
+    ],
+    "derivations": [],
+    "index_label": "黑洞蒸发以后，量子信息是否丢失？",
+    "references": [
+      "167"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.1",
+    "title": "物理理论预测成功，是否就意味着它的数学对象已经定义清楚？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-1",
+    "urls": [
+      "https://www.claymath.org/millennium/yang-mills-the-maths-gap/"
+    ],
+    "derivations": [],
+    "index_label": "物理理论预测成功，是否就意味着它的数学对象已经定义清楚？",
+    "references": [
+      "168"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.2",
+    "title": "解出一个方程，与理解一类物理过程，有什么区别？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-2",
+    "urls": [
+      "https://link.springer.com/article/10.1007/BF01645389",
+      "https://arxiv.org/abs/2205.14808"
+    ],
+    "derivations": [],
+    "index_label": "解出一个方程，与理解一类物理过程，有什么区别？",
+    "references": [
+      "169",
+      "030"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.3",
+    "title": "没有解析解，计算能给出怎样的知识？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-3",
+    "urls": [
+      "https://pubs.aip.org/aip/jcp/article/21/6/1087/202680/Equation-of-State-Calculations-by-Fast-Computing",
+      "https://link.aps.org/doi/10.1103/PhysRevD.10.2445",
+      "https://link.aps.org/doi/10.1103/PhysRevLett.69.2863",
+      "https://arxiv.org/abs/cond-mat/0409292"
+    ],
+    "derivations": [],
+    "index_label": "没有解析解，计算能给出怎样的知识？",
+    "references": [
+      "170",
+      "056",
+      "171",
+      "172"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.4",
+    "title": "如果没有新的仪器，许多新理论还有机会出现吗？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-4",
+    "urls": [
+      "https://www.nobelprize.org/prizes/physics/1927/wilson/facts/",
+      "https://www.nobelprize.org/prizes/physics/1939/lawrence/facts/",
+      "https://www.nobelprize.org/prizes/physics/1960/glaser/facts/",
+      "https://www.nobelprize.org/prizes/physics/1992/charpak/facts/",
+      "https://www.nobelprize.org/prizes/physics/1986/summary/",
+      "https://www.nobelprize.org/prizes/physics/1994/summary/",
+      "https://www.nobelprize.org/prizes/physics/1952/summary/",
+      "https://www.nobelprize.org/prizes/physics/2009/summary/",
+      "https://link.aps.org/doi/10.1103/RevModPhys.70.721"
+    ],
+    "derivations": [],
+    "index_label": "如果没有新的仪器，许多新理论还有机会出现吗？",
+    "references": [
+      "173",
+      "174",
+      "175",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180",
+      "126"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.5",
+    "title": "统计物理为什么会出现在神经网络和计算中？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-5",
+    "urls": [
+      "https://www.pnas.org/doi/10.1073/pnas.79.8.2554",
+      "https://doi.org/10.1207/s15516709cog0901_7"
+    ],
+    "derivations": [],
+    "index_label": "统计物理为什么会出现在神经网络和计算中？",
+    "references": [
+      "181",
+      "182"
+    ],
+    "derivation_note": "—"
+  },
+  {
+    "id": "19.6",
+    "title": "为什么二十世纪的物理越来越依赖大型合作？",
+    "chapter": 19,
+    "source_file": "chapters/19-methods.md",
+    "anchor": "q-19-6",
+    "urls": [
+      "https://news.mit.edu/2020/quantum-legacies-book-kaiser-physics-0429"
+    ],
+    "derivations": [],
+    "index_label": "为什么二十世纪的物理越来越依赖大型合作？",
+    "references": [
+      "183"
+    ],
+    "derivation_note": "—"
+  }
+]

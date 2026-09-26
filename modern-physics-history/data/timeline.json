@@ -1,0 +1,1086 @@
+[
+  {
+    "period": "1824",
+    "researchers": "Carnot",
+    "milestone": "理想热机研究",
+    "question": "热机效率能否受普遍规律限制？",
+    "source_links_markdown": "[§1.1](../chapters/01-thermal-legacy.md#q-1-1)",
+    "question_anchors": [
+      "q-1-1"
+    ]
+  },
+  {
+    "period": "1831",
+    "researchers": "Faraday",
+    "milestone": "电磁感应",
+    "question": "变化的磁与电如何相互产生？",
+    "source_links_markdown": "[§1.3](../chapters/01-thermal-legacy.md#q-1-3)",
+    "question_anchors": [
+      "q-1-3"
+    ]
+  },
+  {
+    "period": "1840年代",
+    "researchers": "Joule、Mayer、Helmholtz等",
+    "milestone": "热功关系与能量守恒",
+    "question": "热能否与机械功统一记账？",
+    "source_links_markdown": "[§1.1](../chapters/01-thermal-legacy.md#q-1-1)",
+    "question_anchors": [
+      "q-1-1"
+    ]
+  },
+  {
+    "period": "1860前后",
+    "researchers": "Maxwell",
+    "milestone": "气体速度统计",
+    "question": "能否用分布代替全部分子轨道？",
+    "source_links_markdown": "[§1.2](../chapters/01-thermal-legacy.md#q-1-2)",
+    "question_anchors": [
+      "q-1-2"
+    ]
+  },
+  {
+    "period": "1864—1865",
+    "researchers": "Maxwell",
+    "milestone": "电磁场理论",
+    "question": "光能否与电、磁统一？",
+    "source_links_markdown": "[§1.3](../chapters/01-thermal-legacy.md#q-1-3)",
+    "question_anchors": [
+      "q-1-3"
+    ]
+  },
+  {
+    "period": "1865",
+    "researchers": "Clausius",
+    "milestone": "熵的命名与系统表述",
+    "question": "过程方向如何由状态量约束？",
+    "source_links_markdown": "[§1.1](../chapters/01-thermal-legacy.md#q-1-1)",
+    "question_anchors": [
+      "q-1-1"
+    ]
+  },
+  {
+    "period": "1872",
+    "researchers": "Boltzmann",
+    "milestone": "动理学与H定理",
+    "question": "微观碰撞如何产生趋近平衡？",
+    "source_links_markdown": "[§1.2](../chapters/01-thermal-legacy.md#q-1-2)",
+    "question_anchors": [
+      "q-1-2"
+    ]
+  },
+  {
+    "period": "1880年代",
+    "researchers": "Hertz等",
+    "milestone": "电磁波实验",
+    "question": "场能否作为真实传播对象被操控？",
+    "source_links_markdown": "[§1.3](../chapters/01-thermal-legacy.md#q-1-3)",
+    "question_anchors": [
+      "q-1-3"
+    ]
+  },
+  {
+    "period": "1895",
+    "researchers": "Röntgen",
+    "milestone": "X射线",
+    "question": "新穿透性辐射来自什么？",
+    "source_links_markdown": "[§5.1](../chapters/05-nuclei.md#q-5-1)",
+    "question_anchors": [
+      "q-5-1"
+    ]
+  },
+  {
+    "period": "1896",
+    "researchers": "Becquerel",
+    "milestone": "放射性",
+    "question": "物质为何自发放出辐射？",
+    "source_links_markdown": "[§5.1](../chapters/05-nuclei.md#q-5-1)",
+    "question_anchors": [
+      "q-5-1"
+    ]
+  },
+  {
+    "period": "1897",
+    "researchers": "J. J. Thomson",
+    "milestone": "电子",
+    "question": "原子是否有更小的组成？",
+    "source_links_markdown": "[§2.3](../chapters/02-quantum-birth.md#q-2-3)",
+    "question_anchors": [
+      "q-2-3"
+    ]
+  },
+  {
+    "period": "1898",
+    "researchers": "Marie、Pierre Curie",
+    "milestone": "钋与镭",
+    "question": "放射性是否是物质内部的普遍属性？",
+    "source_links_markdown": "[§5.1](../chapters/05-nuclei.md#q-5-1)",
+    "question_anchors": [
+      "q-5-1"
+    ]
+  },
+  {
+    "period": "1900",
+    "researchers": "Planck",
+    "milestone": "辐射公式与能量元",
+    "question": "连续能量统计是否足够？",
+    "source_links_markdown": "[§2.1](../chapters/02-quantum-birth.md#q-2-1)",
+    "question_anchors": [
+      "q-2-1"
+    ]
+  },
+  {
+    "period": "1900前后",
+    "researchers": "Drude",
+    "milestone": "经典金属电子模型",
+    "question": "金属导电能否由移动电子解释？",
+    "source_links_markdown": "[§7.1](../chapters/07-condensed-matter.md#q-7-1)",
+    "question_anchors": [
+      "q-7-1"
+    ]
+  },
+  {
+    "period": "1902",
+    "researchers": "Gibbs",
+    "milestone": "系综理论的系统化",
+    "question": "热力学如何由统计结构产生？",
+    "source_links_markdown": "[§1.2](../chapters/01-thermal-legacy.md#q-1-2)",
+    "question_anchors": [
+      "q-1-2"
+    ]
+  },
+  {
+    "period": "1905",
+    "researchers": "Einstein",
+    "milestone": "光量子、布朗运动、狭义相对论",
+    "question": "光、原子与时空的描述一起受到挑战",
+    "source_links_markdown": "[§2.2](../chapters/02-quantum-birth.md#q-2-2)、[§1.4](../chapters/01-thermal-legacy.md#q-1-4)、[§3.1](../chapters/03-relativity.md#q-3-1)",
+    "question_anchors": [
+      "q-2-2",
+      "q-1-4",
+      "q-3-1"
+    ]
+  },
+  {
+    "period": "1908前后",
+    "researchers": "Langevin、Perrin；Minkowski",
+    "milestone": "随机动力学、原子证据、四维时空",
+    "question": "噪声与时空分别获得新语言",
+    "source_links_markdown": "[§11.1](../chapters/11-nonequilibrium.md#q-11-1)、[§1.4](../chapters/01-thermal-legacy.md#q-1-4)、[§3.1](../chapters/03-relativity.md#q-3-1)",
+    "question_anchors": [
+      "q-11-1",
+      "q-1-4",
+      "q-3-1"
+    ]
+  },
+  {
+    "period": "1911",
+    "researchers": "Rutherford；Kamerlingh Onnes",
+    "milestone": "核式原子；超导",
+    "question": "原子结构与宏观量子态的新问题",
+    "source_links_markdown": "[§2.3](../chapters/02-quantum-birth.md#q-2-3)、[§7.4](../chapters/07-condensed-matter.md#q-7-4)",
+    "question_anchors": [
+      "q-2-3",
+      "q-7-4"
+    ]
+  },
+  {
+    "period": "1913",
+    "researchers": "Bohr",
+    "milestone": "量子原子模型",
+    "question": "稳定性与离散谱线如何联系？",
+    "source_links_markdown": "[§2.3](../chapters/02-quantum-birth.md#q-2-3)",
+    "question_anchors": [
+      "q-2-3"
+    ]
+  },
+  {
+    "period": "1915",
+    "researchers": "Einstein",
+    "milestone": "广义相对论场方程",
+    "question": "引力能否是时空几何动力学？",
+    "source_links_markdown": "[§3.2](../chapters/03-relativity.md#q-3-2)",
+    "question_anchors": [
+      "q-3-2"
+    ]
+  },
+  {
+    "period": "1916",
+    "researchers": "Schwarzschild；Einstein",
+    "milestone": "球对称解；引力波研究",
+    "question": "时空方程允许什么强场与传播结构？",
+    "source_links_markdown": "[§3.3](../chapters/03-relativity.md#q-3-3)、[§3.4](../chapters/03-relativity.md#q-3-4)",
+    "question_anchors": [
+      "q-3-3",
+      "q-3-4"
+    ]
+  },
+  {
+    "period": "1918",
+    "researchers": "Noether",
+    "milestone": "对称性与守恒定理",
+    "question": "对称性怎样系统限制动力学？",
+    "source_links_markdown": "[§6.3](../chapters/06-particles.md#q-6-3)",
+    "question_anchors": [
+      "q-6-3"
+    ]
+  },
+  {
+    "period": "1920前后",
+    "researchers": "Saha",
+    "milestone": "电离理论",
+    "question": "恒星谱线怎样反映温度与组成？",
+    "source_links_markdown": "[§16.1](../chapters/16-astrophysics.md#q-16-1)",
+    "question_anchors": [
+      "q-16-1"
+    ]
+  },
+  {
+    "period": "1922",
+    "researchers": "Friedmann；Stern、Gerlach",
+    "milestone": "动态宇宙解；空间量子化实验",
+    "question": "宇宙可演化，原子磁矩方向呈离散结果",
+    "source_links_markdown": "[§17.1](../chapters/17-cosmology.md#q-17-1)、[§2.5](../chapters/02-quantum-birth.md#q-2-5)",
+    "question_anchors": [
+      "q-17-1",
+      "q-2-5"
+    ]
+  },
+  {
+    "period": "1923",
+    "researchers": "Compton",
+    "milestone": "X射线散射",
+    "question": "光是否具有可计算的粒子动量？",
+    "source_links_markdown": "[§2.2](../chapters/02-quantum-birth.md#q-2-2)",
+    "question_anchors": [
+      "q-2-2"
+    ]
+  },
+  {
+    "period": "1923—1924",
+    "researchers": "de Broglie",
+    "milestone": "物质波",
+    "question": "电子能否也显示波的性质？",
+    "source_links_markdown": "[§2.4](../chapters/02-quantum-birth.md#q-2-4)",
+    "question_anchors": [
+      "q-2-4"
+    ]
+  },
+  {
+    "period": "1924—1925",
+    "researchers": "Bose、Einstein",
+    "milestone": "玻色统计与凝聚预言",
+    "question": "相同粒子的统计是否有新形式？",
+    "source_links_markdown": "[§2.5](../chapters/02-quantum-birth.md#q-2-5)",
+    "question_anchors": [
+      "q-2-5"
+    ]
+  },
+  {
+    "period": "1925",
+    "researchers": "Pauli；Heisenberg、Born、Jordan；Payne",
+    "milestone": "不相容、矩阵力学、恒星组成",
+    "question": "状态结构、计算规则与天体图像同时扩展",
+    "source_links_markdown": "[§2.5](../chapters/02-quantum-birth.md#q-2-5)、[§2.4](../chapters/02-quantum-birth.md#q-2-4)、[§16.1](../chapters/16-astrophysics.md#q-16-1)",
+    "question_anchors": [
+      "q-2-5",
+      "q-2-4",
+      "q-16-1"
+    ]
+  },
+  {
+    "period": "1926",
+    "researchers": "Schrödinger、Born；Fermi、Dirac",
+    "milestone": "波动力学、概率解释、费米统计",
+    "question": "微观预测与统计为何必须重写？",
+    "source_links_markdown": "[§2.4](../chapters/02-quantum-birth.md#q-2-4)、[§2.5](../chapters/02-quantum-birth.md#q-2-5)",
+    "question_anchors": [
+      "q-2-4",
+      "q-2-5"
+    ]
+  },
+  {
+    "period": "1927",
+    "researchers": "Heitler、London；Born、Oppenheimer",
+    "milestone": "量子成键与分子近似",
+    "question": "化学结构怎样进入量子计算？",
+    "source_links_markdown": "[§14.1](../chapters/14-atoms-light.md#q-14-1)",
+    "question_anchors": [
+      "q-14-1"
+    ]
+  },
+  {
+    "period": "1927",
+    "researchers": "Davisson、Germer；G. P. Thomson",
+    "milestone": "电子衍射",
+    "question": "物质波获得实验支持",
+    "source_links_markdown": "[§2.4](../chapters/02-quantum-birth.md#q-2-4)",
+    "question_anchors": [
+      "q-2-4"
+    ]
+  },
+  {
+    "period": "1927—1929",
+    "researchers": "Lemaître、Hubble及观测前驱",
+    "milestone": "宇宙膨胀研究",
+    "question": "距离与红移如何解释？",
+    "source_links_markdown": "[§17.1](../chapters/17-cosmology.md#q-17-1)",
+    "question_anchors": [
+      "q-17-1"
+    ]
+  },
+  {
+    "period": "1928",
+    "researchers": "Dirac；Bloch",
+    "milestone": "电子相对论方程；周期势电子",
+    "question": "反粒子、自旋、能带成为核心结构",
+    "source_links_markdown": "[§4.1](../chapters/04-quantum-fields.md#q-4-1)、[§7.1](../chapters/07-condensed-matter.md#q-7-1)",
+    "question_anchors": [
+      "q-4-1",
+      "q-7-1"
+    ]
+  },
+  {
+    "period": "1931",
+    "researchers": "Onsager",
+    "milestone": "互易关系",
+    "question": "近乎平衡的不同输运过程怎样联系？",
+    "source_links_markdown": "[§11.2](../chapters/11-nonequilibrium.md#q-11-2)",
+    "question_anchors": [
+      "q-11-2"
+    ]
+  },
+  {
+    "period": "1932",
+    "researchers": "Chadwick；Carl Anderson",
+    "milestone": "中子；正电子",
+    "question": "核构造与反物质获得关键实验基础",
+    "source_links_markdown": "[§5.1](../chapters/05-nuclei.md#q-5-1)、[§4.1](../chapters/04-quantum-fields.md#q-4-1)",
+    "question_anchors": [
+      "q-5-1",
+      "q-4-1"
+    ]
+  },
+  {
+    "period": "1933—1934",
+    "researchers": "Fermi",
+    "milestone": "β衰变理论",
+    "question": "连续能谱与中微子怎样定量描述？",
+    "source_links_markdown": "[§5.3](../chapters/05-nuclei.md#q-5-3)",
+    "question_anchors": [
+      "q-5-3"
+    ]
+  },
+  {
+    "period": "1935",
+    "researchers": "EPR；Schrödinger；Yukawa",
+    "milestone": "完备性争论；纠缠；介子理论",
+    "question": "量子关联与核力分别提出新对象",
+    "source_links_markdown": "[§2.6](../chapters/02-quantum-birth.md#q-2-6)、[§6.1](../chapters/06-particles.md#q-6-1)",
+    "question_anchors": [
+      "q-2-6",
+      "q-6-1"
+    ]
+  },
+  {
+    "period": "1930年代",
+    "researchers": "Landau、Chandrasekhar等",
+    "milestone": "相变理论与致密天体结构",
+    "question": "集体态与天体稳定性能否系统解释？",
+    "source_links_markdown": "[§8.1](../chapters/08-criticality.md#q-8-1)、[§16.3](../chapters/16-astrophysics.md#q-16-3)",
+    "question_anchors": [
+      "q-8-1",
+      "q-16-3"
+    ]
+  },
+  {
+    "period": "1938—1939",
+    "researchers": "Hahn、Strassmann；Meitner、Frisch",
+    "milestone": "核裂变证据与解释",
+    "question": "原子核为何能分裂并释放能量？",
+    "source_links_markdown": "[§5.4](../chapters/05-nuclei.md#q-5-4)",
+    "question_anchors": [
+      "q-5-4"
+    ]
+  },
+  {
+    "period": "1939",
+    "researchers": "Bethe；Oppenheimer及合作者",
+    "milestone": "恒星核能；致密天体与塌缩",
+    "question": "恒星如何发光与终结？",
+    "source_links_markdown": "[§16.2](../chapters/16-astrophysics.md#q-16-2)、[§16.3](../chapters/16-astrophysics.md#q-16-3)",
+    "question_anchors": [
+      "q-16-2",
+      "q-16-3"
+    ]
+  },
+  {
+    "period": "1942",
+    "researchers": "Alfvén",
+    "milestone": "磁流体波",
+    "question": "磁场与等离子体怎样共同传播？",
+    "source_links_markdown": "[§13.1](../chapters/13-plasmas.md#q-13-1)",
+    "question_anchors": [
+      "q-13-1"
+    ]
+  },
+  {
+    "period": "1944",
+    "researchers": "Onsager",
+    "milestone": "二维零场Ising精确解",
+    "question": "临界行为为何超出平均场？",
+    "source_links_markdown": "[§8.2](../chapters/08-criticality.md#q-8-2)",
+    "question_anchors": [
+      "q-8-2"
+    ]
+  },
+  {
+    "period": "1946",
+    "researchers": "Bloch、Purcell等；Landau",
+    "milestone": "核磁共振；碰撞很弱时的波阻尼",
+    "question": "自旋与相空间动力学获得新探针",
+    "source_links_markdown": "[§14.5](../chapters/14-atoms-light.md#q-14-5)、[§13.1](../chapters/13-plasmas.md#q-13-1)",
+    "question_anchors": [
+      "q-14-5",
+      "q-13-1"
+    ]
+  },
+  {
+    "period": "1947—1949",
+    "researchers": "Lamb、Retherford；QED研究群体",
+    "milestone": "精密能级实验与重整化QED",
+    "question": "真空涨落修正能否可靠计算？",
+    "source_links_markdown": "[§4.2](../chapters/04-quantum-fields.md#q-4-2)",
+    "question_anchors": [
+      "q-4-2"
+    ]
+  },
+  {
+    "period": "1947",
+    "researchers": "Bardeen、Brattain；随后Shockley",
+    "milestone": "晶体管",
+    "question": "量子材料如何成为可设计器件？",
+    "source_links_markdown": "[§7.1](../chapters/07-condensed-matter.md#q-7-1)",
+    "question_anchors": [
+      "q-7-1"
+    ]
+  },
+  {
+    "period": "1948",
+    "researchers": "Feynman",
+    "milestone": "路径积分论文",
+    "question": "能否用历史的相干叠加组织量子理论？",
+    "source_links_markdown": "[§4.3](../chapters/04-quantum-fields.md#q-4-3)",
+    "question_anchors": [
+      "q-4-3"
+    ]
+  },
+  {
+    "period": "1949前后",
+    "researchers": "Goeppert Mayer、Jensen等",
+    "milestone": "核壳层结构",
+    "question": "原子核幻数从何而来？",
+    "source_links_markdown": "[§5.2](../chapters/05-nuclei.md#q-5-2)",
+    "question_anchors": [
+      "q-5-2"
+    ]
+  },
+  {
+    "period": "1952",
+    "researchers": "Hodgkin、Huxley；Turing",
+    "milestone": "动作电位模型；反应扩散图样",
+    "question": "生物信号与形态能否动力学解释？",
+    "source_links_markdown": "[§12.6](../chapters/12-soft-active-living-matter.md#q-12-6)",
+    "question_anchors": [
+      "q-12-6"
+    ]
+  },
+  {
+    "period": "1953",
+    "researchers": "Metropolis、Rosenbluth夫妇、Teller夫妇",
+    "milestone": "统计抽样算法",
+    "question": "高维系综怎样可计算？",
+    "source_links_markdown": "[§19.3](../chapters/19-methods.md#q-19-3)",
+    "question_anchors": [
+      "q-19-3"
+    ]
+  },
+  {
+    "period": "1954",
+    "researchers": "Yang、Mills；激射器研究团队",
+    "milestone": "非阿贝尔规范场；maser",
+    "question": "相互作用结构与量子控制共同发展",
+    "source_links_markdown": "[§6.3](../chapters/06-particles.md#q-6-3)、[§14.2](../chapters/14-atoms-light.md#q-14-2)",
+    "question_anchors": [
+      "q-6-3",
+      "q-14-2"
+    ]
+  },
+  {
+    "period": "1955前后",
+    "researchers": "Fermi、Pasta、Ulam、Tsingou",
+    "milestone": "非线性链数值实验",
+    "question": "非线性是否必然导致快速热化？",
+    "source_links_markdown": "[§10.2](../chapters/10-nonlinear-dynamics.md#q-10-2)",
+    "question_anchors": [
+      "q-10-2"
+    ]
+  },
+  {
+    "period": "1956—1957",
+    "researchers": "Lee、Yang；Wu及合作者",
+    "milestone": "弱相互作用宇称不守恒",
+    "question": "默认对称性是否有充分证据？",
+    "source_links_markdown": "[§6.2](../chapters/06-particles.md#q-6-2)",
+    "question_anchors": [
+      "q-6-2"
+    ]
+  },
+  {
+    "period": "1957",
+    "researchers": "Bardeen、Cooper、Schrieffer",
+    "milestone": "BCS理论",
+    "question": "常规超导如何由集体配对解释？",
+    "source_links_markdown": "[§7.4](../chapters/07-condensed-matter.md#q-7-4)",
+    "question_anchors": [
+      "q-7-4"
+    ]
+  },
+  {
+    "period": "1957",
+    "researchers": "Kubo；B²FH、Cameron",
+    "milestone": "线性响应；核合成",
+    "question": "涨落怎样决定输运？元素怎样形成？",
+    "source_links_markdown": "[§11.2](../chapters/11-nonequilibrium.md#q-11-2)、[§16.2](../chapters/16-astrophysics.md#q-16-2)",
+    "question_anchors": [
+      "q-11-2",
+      "q-16-2"
+    ]
+  },
+  {
+    "period": "1958",
+    "researchers": "Anderson",
+    "milestone": "局域化",
+    "question": "无序能否借量子干涉阻止扩散？",
+    "source_links_markdown": "[§7.3](../chapters/07-condensed-matter.md#q-7-3)",
+    "question_anchors": [
+      "q-7-3"
+    ]
+  },
+  {
+    "period": "1959",
+    "researchers": "Aharonov、Bohm",
+    "milestone": "AB效应",
+    "question": "势、回路与可测相位怎样联系？",
+    "source_links_markdown": "[§9.1](../chapters/09-topological-matter.md#q-9-1)",
+    "question_anchors": [
+      "q-9-1"
+    ]
+  },
+  {
+    "period": "1960",
+    "researchers": "Maiman",
+    "milestone": "激光",
+    "question": "如何产生高度可控的光？",
+    "source_links_markdown": "[§14.2](../chapters/14-atoms-light.md#q-14-2)",
+    "question_anchors": [
+      "q-14-2"
+    ]
+  },
+  {
+    "period": "1961",
+    "researchers": "Landauer",
+    "milestone": "信息复位与耗散",
+    "question": "计算有没有热力学代价？",
+    "source_links_markdown": "[§15.5](../chapters/15-quantum-information.md#q-15-5)",
+    "question_anchors": [
+      "q-15-5"
+    ]
+  },
+  {
+    "period": "1962",
+    "researchers": "Josephson",
+    "milestone": "超导隧穿预言",
+    "question": "相位差如何控制宏观电流？",
+    "source_links_markdown": "[§7.4](../chapters/07-condensed-matter.md#q-7-4)",
+    "question_anchors": [
+      "q-7-4"
+    ]
+  },
+  {
+    "period": "1963",
+    "researchers": "Kerr；Lorenz；Hubbard",
+    "milestone": "旋转黑洞；混沌；关联电子模型",
+    "question": "精确解、长期预测与多体近似的边界",
+    "source_links_markdown": "[§3.4](../chapters/03-relativity.md#q-3-4)、[§10.1](../chapters/10-nonlinear-dynamics.md#q-10-1)、[§7.2](../chapters/07-condensed-matter.md#q-7-2)",
+    "question_anchors": [
+      "q-3-4",
+      "q-10-1",
+      "q-7-2"
+    ]
+  },
+  {
+    "period": "1964",
+    "researchers": "Bell；Gell-Mann、Zweig；BEH/GHK各组",
+    "milestone": "Bell定理、夸克、质量机制",
+    "question": "关联、组成与质量各有新结构",
+    "source_links_markdown": "[§2.6](../chapters/02-quantum-birth.md#q-2-6)、[§6.1](../chapters/06-particles.md#q-6-1)、[§6.4](../chapters/06-particles.md#q-6-4)",
+    "question_anchors": [
+      "q-2-6",
+      "q-6-1",
+      "q-6-4"
+    ]
+  },
+  {
+    "period": "1965",
+    "researchers": "Penrose；Penzias、Wilson及解释团队",
+    "milestone": "奇点定理；微波背景发现",
+    "question": "塌缩与热早期宇宙获得关键支撑",
+    "source_links_markdown": "[§3.4](../chapters/03-relativity.md#q-3-4)、[§17.2](../chapters/17-cosmology.md#q-17-2)",
+    "question_anchors": [
+      "q-3-4",
+      "q-17-2"
+    ]
+  },
+  {
+    "period": "1966",
+    "researchers": "Kadanoff",
+    "milestone": "块自旋标度",
+    "question": "改变观察尺度怎样改变理论？",
+    "source_links_markdown": "[§8.3](../chapters/08-criticality.md#q-8-3)",
+    "question_anchors": [
+      "q-8-3"
+    ]
+  },
+  {
+    "period": "1967—1968",
+    "researchers": "Bell Burnell、Hewish等",
+    "milestone": "脉冲星发现与发表",
+    "question": "致密天体成为精密时钟",
+    "source_links_markdown": "[§16.3](../chapters/16-astrophysics.md#q-16-3)",
+    "question_anchors": [
+      "q-16-3"
+    ]
+  },
+  {
+    "period": "1961—1970年代初",
+    "researchers": "Glashow、Weinberg、Salam、't Hooft、Veltman等",
+    "milestone": "电弱理论与量子一致性",
+    "question": "弱与电磁作用能否统一描述？",
+    "source_links_markdown": "[§6.4](../chapters/06-particles.md#q-6-4)",
+    "question_anchors": [
+      "q-6-4"
+    ]
+  },
+  {
+    "period": "1971—1973",
+    "researchers": "Wilson；Berezinskii、Kosterlitz、Thouless",
+    "milestone": "RG与拓扑相变",
+    "question": "普适性和低维相变获得新解释",
+    "source_links_markdown": "[§8.3](../chapters/08-criticality.md#q-8-3)、[§9.2](../chapters/09-topological-matter.md#q-9-2)",
+    "question_anchors": [
+      "q-8-3",
+      "q-9-2"
+    ]
+  },
+  {
+    "period": "1972",
+    "researchers": "Anderson；Freedman、Clauser",
+    "milestone": "《More Is Different》；Bell实验",
+    "question": "涌现的解释地位与量子关联的实验证据",
+    "source_links_markdown": "[§8.4](../chapters/08-criticality.md#q-8-4)、[§15.1](../chapters/15-quantum-information.md#q-15-1)",
+    "question_anchors": [
+      "q-8-4",
+      "q-15-1"
+    ]
+  },
+  {
+    "period": "1973",
+    "researchers": "Gross、Wilczek、Politzer；Gargamelle",
+    "milestone": "渐近自由；弱中性流",
+    "question": "强相互作用与电弱理论接受关键检验",
+    "source_links_markdown": "[§6.5](../chapters/06-particles.md#q-6-5)、[§6.4](../chapters/06-particles.md#q-6-4)",
+    "question_anchors": [
+      "q-6-5",
+      "q-6-4"
+    ]
+  },
+  {
+    "period": "1973—1975",
+    "researchers": "Bekenstein、Hawking",
+    "milestone": "黑洞熵与辐射",
+    "question": "引力、量子、热力学相遇",
+    "source_links_markdown": "[§18.1](../chapters/18-black-holes.md#q-18-1)",
+    "question_anchors": [
+      "q-18-1"
+    ]
+  },
+  {
+    "period": "1974",
+    "researchers": "Wilson",
+    "milestone": "格点规范理论",
+    "question": "强耦合问题如何非微扰计算？",
+    "source_links_markdown": "[§19.3](../chapters/19-methods.md#q-19-3)",
+    "question_anchors": [
+      "q-19-3"
+    ]
+  },
+  {
+    "period": "1976",
+    "researchers": "Unruh",
+    "milestone": "加速探测器热响应",
+    "question": "粒子和真空是否依赖观察者运动？",
+    "source_links_markdown": "[§18.2](../chapters/18-black-holes.md#q-18-2)",
+    "question_anchors": [
+      "q-18-2"
+    ]
+  },
+  {
+    "period": "1977",
+    "researchers": "Berg、Purcell",
+    "milestone": "感知的扩散噪声极限",
+    "question": "生物信息处理是否有物理下界？",
+    "source_links_markdown": "[§12.5](../chapters/12-soft-active-living-matter.md#q-12-5)",
+    "question_anchors": [
+      "q-12-5"
+    ]
+  },
+  {
+    "period": "1979前后",
+    "researchers": "Weinberg；Parisi",
+    "milestone": "有效场论；自旋玻璃理论",
+    "question": "尺度分离与复杂状态空间如何组织？",
+    "source_links_markdown": "[§4.4](../chapters/04-quantum-fields.md#q-4-4)、[§10.4](../chapters/10-nonlinear-dynamics.md#q-10-4)",
+    "question_anchors": [
+      "q-4-4",
+      "q-10-4"
+    ]
+  },
+  {
+    "period": "1980",
+    "researchers": "von Klitzing；Rubin、Ford、Thonnard",
+    "milestone": "整数霍尔；星系旋转曲线",
+    "question": "拓扑量子化与不可见质量",
+    "source_links_markdown": "[§9.3](../chapters/09-topological-matter.md#q-9-3)、[§17.4](../chapters/17-cosmology.md#q-17-4)",
+    "question_anchors": [
+      "q-9-3",
+      "q-17-4"
+    ]
+  },
+  {
+    "period": "1981—1982",
+    "researchers": "Guth及暴涨研究群体；Feynman",
+    "milestone": "暴涨；量子模拟论述",
+    "question": "早期宇宙与量子计算成为新议程",
+    "source_links_markdown": "[§17.3](../chapters/17-cosmology.md#q-17-3)、[§15.3](../chapters/15-quantum-information.md#q-15-3)",
+    "question_anchors": [
+      "q-17-3",
+      "q-15-3"
+    ]
+  },
+  {
+    "period": "1982—1983",
+    "researchers": "Tsui、Störmer、Gossard；TKNN；Laughlin",
+    "milestone": "霍尔拓扑与分数化",
+    "question": "多体物态能否具有新量子数？",
+    "source_links_markdown": "[§9.3](../chapters/09-topological-matter.md#q-9-3)、[§9.4](../chapters/09-topological-matter.md#q-9-4)",
+    "question_anchors": [
+      "q-9-3",
+      "q-9-4"
+    ]
+  },
+  {
+    "period": "1982",
+    "researchers": "Hopfield；Aspect团队",
+    "milestone": "集体计算；Bell检验",
+    "question": "动力系统如何存储信息？关联怎样被测量？",
+    "source_links_markdown": "[§19.5](../chapters/19-methods.md#q-19-5)、[§15.1](../chapters/15-quantum-information.md#q-15-1)",
+    "question_anchors": [
+      "q-19-5",
+      "q-15-1"
+    ]
+  },
+  {
+    "period": "1983",
+    "researchers": "UA1、UA2",
+    "milestone": "W和Z的发现",
+    "question": "电弱媒介获得直接实验支持",
+    "source_links_markdown": "[§6.4](../chapters/06-particles.md#q-6-4)",
+    "question_anchors": [
+      "q-6-4"
+    ]
+  },
+  {
+    "period": "1984",
+    "researchers": "BPZ；Berry；Green、Schwarz；Bennett、Brassard",
+    "milestone": "CFT、几何相位、反常抵消、QKD",
+    "question": "对称、几何和信息拓宽量子研究",
+    "source_links_markdown": "[§8.5](../chapters/08-criticality.md#q-8-5)、[§9.1](../chapters/09-topological-matter.md#q-9-1)、[§18.3](../chapters/18-black-holes.md#q-18-3)、[§15.2](../chapters/15-quantum-information.md#q-15-2)",
+    "question_anchors": [
+      "q-8-5",
+      "q-9-1",
+      "q-18-3",
+      "q-15-2"
+    ]
+  },
+  {
+    "period": "1984—1985",
+    "researchers": "Clarke、Devoret、Martinis",
+    "milestone": "宏观电路量子隧穿与能级实验",
+    "question": "人工电路能否成为可控量子系统？",
+    "source_links_markdown": "[§15.5](../chapters/15-quantum-information.md#q-15-5)",
+    "question_anchors": [
+      "q-15-5"
+    ]
+  },
+  {
+    "period": "1986",
+    "researchers": "Bednorz、Müller；KPZ；Ashtekar",
+    "milestone": "高温超导、生长方程、引力新变量",
+    "question": "强关联、非平衡与量子引力分叉发展",
+    "source_links_markdown": "[§7.5](../chapters/07-condensed-matter.md#q-7-5)、[§11.5](../chapters/11-nonequilibrium.md#q-11-5)、[§18.3](../chapters/18-black-holes.md#q-18-3)",
+    "question_anchors": [
+      "q-7-5",
+      "q-11-5",
+      "q-18-3"
+    ]
+  },
+  {
+    "period": "1988",
+    "researchers": "Haldane",
+    "milestone": "零净磁通拓扑能带模型",
+    "question": "霍尔结构是否必须依赖外加均匀磁场？",
+    "source_links_markdown": "[§9.5](../chapters/09-topological-matter.md#q-9-5)",
+    "question_anchors": [
+      "q-9-5"
+    ]
+  },
+  {
+    "period": "1990、1992",
+    "researchers": "COBE团队",
+    "milestone": "背景黑体谱与各向异性",
+    "question": "热宇宙图像进入精密测量",
+    "source_links_markdown": "[§17.2](../chapters/17-cosmology.md#q-17-2)",
+    "question_anchors": [
+      "q-17-2"
+    ]
+  },
+  {
+    "period": "1992",
+    "researchers": "White",
+    "milestone": "DMRG",
+    "question": "多体量子态怎样高效压缩？",
+    "source_links_markdown": "[§19.3](../chapters/19-methods.md#q-19-3)",
+    "question_anchors": [
+      "q-19-3"
+    ]
+  },
+  {
+    "period": "1993",
+    "researchers": "Bennett等",
+    "milestone": "量子传态",
+    "question": "纠缠与经典通信能完成什么？",
+    "source_links_markdown": "[§15.2](../chapters/15-quantum-information.md#q-15-2)",
+    "question_anchors": [
+      "q-15-2"
+    ]
+  },
+  {
+    "period": "1994—1996",
+    "researchers": "Shor、Steane等",
+    "milestone": "量子算法与纠错",
+    "question": "量子计算是否有优势且可保护？",
+    "source_links_markdown": "[§15.3](../chapters/15-quantum-information.md#q-15-3)、[§15.4](../chapters/15-quantum-information.md#q-15-4)",
+    "question_anchors": [
+      "q-15-3",
+      "q-15-4"
+    ]
+  },
+  {
+    "period": "1995",
+    "researchers": "Cornell、Wieman、Ketterle团队；Vicsek、Toner、Tu等",
+    "milestone": "稀薄气体BEC；集体自驱运动",
+    "question": "量子气体与主动物质获得可研究模型",
+    "source_links_markdown": "[§14.3](../chapters/14-atoms-light.md#q-14-3)、[§12.3](../chapters/12-soft-active-living-matter.md#q-12-3)",
+    "question_anchors": [
+      "q-14-3",
+      "q-12-3"
+    ]
+  },
+  {
+    "period": "1996",
+    "researchers": "Strominger、Vafa",
+    "milestone": "特定黑洞微观熵计数",
+    "question": "面积熵能否由微观态解释？",
+    "source_links_markdown": "[§18.4](../chapters/18-black-holes.md#q-18-4)",
+    "question_anchors": [
+      "q-18-4"
+    ]
+  },
+  {
+    "period": "1997",
+    "researchers": "Maldacena；Jarzynski",
+    "milestone": "AdS/CFT；非平衡功等式",
+    "question": "引力对偶与轨迹热力学的新连接",
+    "source_links_markdown": "[§18.4](../chapters/18-black-holes.md#q-18-4)、[§11.4](../chapters/11-nonequilibrium.md#q-11-4)",
+    "question_anchors": [
+      "q-18-4",
+      "q-11-4"
+    ]
+  },
+  {
+    "period": "1998—2002",
+    "researchers": "超新星、Super-K、SNO团队",
+    "milestone": "加速膨胀；中微子振荡与味转化",
+    "question": "宇宙组成与中微子模型必须扩展",
+    "source_links_markdown": "[§17.5](../chapters/17-cosmology.md#q-17-5)、[§6.6](../chapters/06-particles.md#q-6-6)",
+    "question_anchors": [
+      "q-17-5",
+      "q-6-6"
+    ]
+  },
+  {
+    "period": "2004",
+    "researchers": "Novoselov、Geim等；Calabrese、Cardy",
+    "milestone": "石墨烯；场论纠缠熵",
+    "question": "二维材料和量子信息连接多体",
+    "source_links_markdown": "[§7.5](../chapters/07-condensed-matter.md#q-7-5)、[§20.1](../chapters/20-branch-map.md#q-20-1)",
+    "question_anchors": [
+      "q-7-5",
+      "q-20-1"
+    ]
+  },
+  {
+    "period": "2008",
+    "researchers": "Rattazzi、Rychkov、Tonni、Vichi",
+    "milestone": "现代数值共形bootstrap",
+    "question": "一致性条件能约束多强？",
+    "source_links_markdown": "[§8.5](../chapters/08-criticality.md#q-8-5)",
+    "question_anchors": [
+      "q-8-5"
+    ]
+  },
+  {
+    "period": "2010前后",
+    "researchers": "KPZ精确解与液晶实验研究者",
+    "milestone": "涨落分布的理论与检验",
+    "question": "普适性是否超越少数指数？",
+    "source_links_markdown": "[§11.5](../chapters/11-nonequilibrium.md#q-11-5)",
+    "question_anchors": [
+      "q-11-5"
+    ]
+  },
+  {
+    "period": "2012",
+    "researchers": "ATLAS、CMS",
+    "milestone": "Higgs玻色子的发现",
+    "question": "电弱质量机制获得关键支持",
+    "source_links_markdown": "[§6.4](../chapters/06-particles.md#q-6-4)",
+    "question_anchors": [
+      "q-6-4"
+    ]
+  },
+  {
+    "period": "2013",
+    "researchers": "Hairer",
+    "milestone": "KPZ解的严格新框架",
+    "question": "奇异随机非线性如何定义？",
+    "source_links_markdown": "[§11.6](../chapters/11-nonequilibrium.md#q-11-6)",
+    "question_anchors": [
+      "q-11-6"
+    ]
+  },
+  {
+    "period": "2015观测，2016发表",
+    "researchers": "LIGO、Virgo合作组织",
+    "milestone": "GW150914",
+    "question": "双黑洞并合怎样直接观测？",
+    "source_links_markdown": "[§3.3](../chapters/03-relativity.md#q-3-3)",
+    "question_anchors": [
+      "q-3-3"
+    ]
+  },
+  {
+    "period": "2015",
+    "researchers": "Hensen等与多个光子实验组",
+    "milestone": "重要漏洞同时受控的Bell实验",
+    "question": "局域模型的实验空间进一步缩小",
+    "source_links_markdown": "[§15.1](../chapters/15-quantum-information.md#q-15-1)",
+    "question_anchors": [
+      "q-15-1"
+    ]
+  },
+  {
+    "period": "2017",
+    "researchers": "多信使合作网络",
+    "milestone": "GW170817",
+    "question": "引力波、光和核合成如何联合研究？",
+    "source_links_markdown": "[§16.2](../chapters/16-astrophysics.md#q-16-2)",
+    "question_anchors": [
+      "q-16-2"
+    ]
+  },
+  {
+    "period": "2018",
+    "researchers": "Cao、Jarillo-Herrero等；Planck",
+    "milestone": "魔角超导；精密宇宙学结果",
+    "question": "材料几何可调与宇宙参数可约束",
+    "source_links_markdown": "[§7.5](../chapters/07-condensed-matter.md#q-7-5)、[§17.3](../chapters/17-cosmology.md#q-17-3)",
+    "question_anchors": [
+      "q-7-5",
+      "q-17-3"
+    ]
+  },
+  {
+    "period": "2019",
+    "researchers": "EHT；Penington、Almheiri等",
+    "milestone": "黑洞阴影；岛与Page曲线进展",
+    "question": "黑洞的观测与信息问题分别前进",
+    "source_links_markdown": "[§16.4](../chapters/16-astrophysics.md#q-16-4)、[§18.5](../chapters/18-black-holes.md#q-18-5)",
+    "question_anchors": [
+      "q-16-4",
+      "q-18-5"
+    ]
+  },
+  {
+    "period": "2022",
+    "researchers": "NIF；Bothwell、Ye等",
+    "milestone": "点火；毫米尺度引力红移",
+    "question": "极端能量与极精密测量的能力边界",
+    "source_links_markdown": "[§13.3](../chapters/13-plasmas.md#q-13-3)、[§14.5](../chapters/14-atoms-light.md#q-14-5)",
+    "question_anchors": [
+      "q-13-3",
+      "q-14-5"
+    ]
+  },
+  {
+    "period": "2023",
+    "researchers": "脉冲星计时阵列",
+    "milestone": "纳赫兹引力波背景证据",
+    "question": "新引力波频段与源种群研究",
+    "source_links_markdown": "[§16.5](../chapters/16-astrophysics.md#q-16-5)",
+    "question_anchors": [
+      "q-16-5"
+    ]
+  },
+  {
+    "period": "2024公开／2025卷次",
+    "researchers": "Acharya等",
+    "milestone": "阈值以下表面码实验",
+    "question": "逻辑量子信息能否随编码规模更稳定？",
+    "source_links_markdown": "[§15.4](../chapters/15-quantum-information.md#q-15-4)",
+    "question_anchors": [
+      "q-15-4"
+    ]
+  },
+  {
+    "period": "2025",
+    "researchers": "DESI",
+    "milestone": "第二次数据发布",
+    "question": "演化暗能量的线索怎样接受稳健检验？",
+    "source_links_markdown": "[§17.5](../chapters/17-cosmology.md#q-17-5)",
+    "question_anchors": [
+      "q-17-5"
+    ]
+  }
+]
